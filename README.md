@@ -1,2 +1,3 @@
-# prereleaseLindaLinda
-Temporary repository for pre-release of Linda-Linda Project v0.1 (devname: Linda0)
+# (Pre-Release) Linda-Linda v0.1 (devname: linda0)
+Temporary repository for pre-release of the project: Linda-Linda
+(devname: Linda0)
