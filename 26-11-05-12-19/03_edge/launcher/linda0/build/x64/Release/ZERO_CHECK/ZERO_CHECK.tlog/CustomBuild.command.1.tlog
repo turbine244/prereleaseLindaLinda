@@ -1,0 +1,10 @@
+^C:\USERS\TURBI\ONEDRIVE\DESKTOP\LINDA-LINDA\26-11-05-12-19\03_EDGE\LAUNCHER\LINDA0\BUILD\CMAKEFILES\9F76F417B40CCA37BF8314C2D0EE7FDA\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/turbi/OneDrive/Desktop/linda-linda/26-11-05-12-19/03_edge/launcher/linda0 -BC:/Users/turbi/OneDrive/Desktop/linda-linda/26-11-05-12-19/03_edge/launcher/linda0/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/turbi/OneDrive/Desktop/linda-linda/26-11-05-12-19/03_edge/launcher/linda0/build/linda0.slnx
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

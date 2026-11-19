@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\turbi\OneDrive\Desktop\linda-linda\26-11-05-12-19\00_vendored\quickjs-ng\lre-test.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\turbi\OneDrive\Desktop\linda-linda\26-11-05-12-19\00_vendored\quickjs-ng\libregexp.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\turbi\OneDrive\Desktop\linda-linda\26-11-05-12-19\00_vendored\quickjs-ng\libunicode.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\turbi\OneDrive\Desktop\linda-linda\26-11-05-12-19\00_vendored\quickjs-ng\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8260E14F-5A3A-3FE5-943E-75A9F1343110}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

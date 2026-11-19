@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\turbi\OneDrive\Desktop\linda-linda\26-11-05-12-19\03_edge\launcher\linda0\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\turbi\OneDrive\Desktop\linda-linda\26-11-05-12-19\03_edge\launcher\linda0\src\_h\00_file\00_rig\rigPackage.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\turbi\OneDrive\Desktop\linda-linda\26-11-05-12-19\03_edge\launcher\linda0\src\_h\01_runtime\00_audioSupport\audioSupport.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\turbi\OneDrive\Desktop\linda-linda\26-11-05-12-19\03_edge\launcher\linda0\src\_h\01_runtime\01_languageSupport\languageSupport.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\turbi\OneDrive\Desktop\linda-linda\26-11-05-12-19\03_edge\launcher\linda0\src\_h\01_runtime\02_gig\gig.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\turbi\OneDrive\Desktop\linda-linda\26-11-05-12-19\03_edge\launcher\linda0\src\_h\01_runtime\02_gig\narrative\narr.openGigRuntime.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\turbi\OneDrive\Desktop\linda-linda\26-11-05-12-19\03_edge\launcher\linda0\src\_h\02_shell\00_cli\cli.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\turbi\OneDrive\Desktop\linda-linda\26-11-05-12-19\03_edge\launcher\linda0\src\_h\02_shell\01_command\support.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\turbi\OneDrive\Desktop\linda-linda\26-11-05-12-19\03_edge\launcher\linda0\src\_h\02_shell\01_command\list.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\turbi\OneDrive\Desktop\linda-linda\26-11-05-12-19\03_edge\launcher\linda0\src\_h\02_shell\01_command\scan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\turbi\OneDrive\Desktop\linda-linda\26-11-05-12-19\03_edge\launcher\linda0\src\_h\02_shell\01_command\build.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\turbi\OneDrive\Desktop\linda-linda\26-11-05-12-19\03_edge\launcher\linda0\src\_h\02_shell\01_command\narrative\narr.commandBuild.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\turbi\OneDrive\Desktop\linda-linda\26-11-05-12-19\03_edge\launcher\linda0\src\_h\02_shell\01_command\run.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\turbi\OneDrive\Desktop\linda-linda\26-11-05-12-19\03_edge\launcher\linda0\src\_h\02_shell\01_command\narrative\narr.commandRun.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\turbi\OneDrive\Desktop\linda-linda\26-11-05-12-19\03_edge\launcher\linda0\src\_h\02_shell\02_dispatch\dispatch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\turbi\OneDrive\Desktop\linda-linda\26-11-05-12-19\03_edge\launcher\linda0\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2B56C1D2-8C5B-34F3-822D-F113D3F3204F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

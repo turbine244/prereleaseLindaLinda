@@ -1,0 +1,47 @@
+{
+  "front": {
+    "numIn": 2,
+    "numOut": 2,
+    "listIn": [
+      {
+        "id": 1,
+        "name": "X",
+        "meta": {
+          "label": "X"
+        }
+      },
+      {
+        "id": 2,
+        "name": "X2",
+        "meta": {
+          "label": "X2"
+        }
+      }
+    ],
+    "listOut": [
+      {
+        "id": 1,
+        "name": "Y",
+        "meta": {
+          "label": "Y"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Y2",
+        "meta": {
+          "label": "Y2"
+        }
+      }
+    ]
+  },
+  "fx": {
+    "ok": true
+  },
+  "problem": {
+    "numWarning": 0,
+    "numError": 0,
+    "listWarning": [],
+    "listError": []
+  }
+}

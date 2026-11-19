@@ -1,0 +1,10 @@
+^C:\USERS\TURBI\ONEDRIVE\DESKTOP\LINDA-LINDA\26-11-05-12-19\03_EDGE\AUDIO\LINDA.ASIO\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/turbi/OneDrive/Desktop/linda-linda/26-11-05-12-19/03_edge/audio/linda.asio -BC:/Users/turbi/OneDrive/Desktop/linda-linda/26-11-05-12-19/03_edge/audio/linda.asio/build --check-stamp-file C:/Users/turbi/OneDrive/Desktop/linda-linda/26-11-05-12-19/03_edge/audio/linda.asio/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

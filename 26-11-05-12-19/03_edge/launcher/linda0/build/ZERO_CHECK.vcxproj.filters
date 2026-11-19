@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\turbi\OneDrive\Desktop\linda-linda\26-11-05-12-19\03_edge\launcher\linda0\build\CMakeFiles\9f76f417b40cca37bf8314c2d0ee7fda\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B7183103-6ED7-3D08-9B49-1CB389175957}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,15 @@
+C:/Users/turbi/OneDrive/Desktop/linda-linda/26-11-05-12-19/03_edge/language/linda.js/build/CMakeFiles/lindaJs.dir
+C:/Users/turbi/OneDrive/Desktop/linda-linda/26-11-05-12-19/03_edge/language/linda.js/build/CMakeFiles/INSTALL.dir
+C:/Users/turbi/OneDrive/Desktop/linda-linda/26-11-05-12-19/03_edge/language/linda.js/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/turbi/OneDrive/Desktop/linda-linda/26-11-05-12-19/03_edge/language/linda.js/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/turbi/OneDrive/Desktop/linda-linda/26-11-05-12-19/03_edge/language/linda.js/build/quickjs-ng/CMakeFiles/qjs.dir
+C:/Users/turbi/OneDrive/Desktop/linda-linda/26-11-05-12-19/03_edge/language/linda.js/build/quickjs-ng/CMakeFiles/qjs-libc.dir
+C:/Users/turbi/OneDrive/Desktop/linda-linda/26-11-05-12-19/03_edge/language/linda.js/build/quickjs-ng/CMakeFiles/qjsc.dir
+C:/Users/turbi/OneDrive/Desktop/linda-linda/26-11-05-12-19/03_edge/language/linda.js/build/quickjs-ng/CMakeFiles/qjs_exe.dir
+C:/Users/turbi/OneDrive/Desktop/linda-linda/26-11-05-12-19/03_edge/language/linda.js/build/quickjs-ng/CMakeFiles/run-test262.dir
+C:/Users/turbi/OneDrive/Desktop/linda-linda/26-11-05-12-19/03_edge/language/linda.js/build/quickjs-ng/CMakeFiles/api-test.dir
+C:/Users/turbi/OneDrive/Desktop/linda-linda/26-11-05-12-19/03_edge/language/linda.js/build/quickjs-ng/CMakeFiles/lre-test.dir
+C:/Users/turbi/OneDrive/Desktop/linda-linda/26-11-05-12-19/03_edge/language/linda.js/build/quickjs-ng/CMakeFiles/unicode_gen.dir
+C:/Users/turbi/OneDrive/Desktop/linda-linda/26-11-05-12-19/03_edge/language/linda.js/build/quickjs-ng/CMakeFiles/function_source.dir
+C:/Users/turbi/OneDrive/Desktop/linda-linda/26-11-05-12-19/03_edge/language/linda.js/build/quickjs-ng/CMakeFiles/INSTALL.dir
+C:/Users/turbi/OneDrive/Desktop/linda-linda/26-11-05-12-19/03_edge/language/linda.js/build/quickjs-ng/CMakeFiles/ALL_BUILD.dir

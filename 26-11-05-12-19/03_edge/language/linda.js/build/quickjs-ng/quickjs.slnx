@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Solution>
+	<Configurations>
+		<BuildType Name="Debug"/>
+		<BuildType Name="Release"/>
+		<BuildType Name="MinSizeRel"/>
+		<BuildType Name="RelWithDebInfo"/>
+		<Platform Name="x64"/>
+	</Configurations>
+	<Project Path="ALL_BUILD.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="fcd57a8b-3eea-38b5-8ad1-0d40a445ac77" DefaultStartup="true">
+		<BuildDependency Project="../ZERO_CHECK.vcxproj"/>
+		<BuildDependency Project="api-test.vcxproj"/>
+		<BuildDependency Project="function_source.vcxproj"/>
+		<BuildDependency Project="lre-test.vcxproj"/>
+		<BuildDependency Project="qjs.vcxproj"/>
+		<BuildDependency Project="qjs-libc.vcxproj"/>
+		<BuildDependency Project="qjs_exe.vcxproj"/>
+		<BuildDependency Project="qjsc.vcxproj"/>
+		<BuildDependency Project="run-test262.vcxproj"/>
+	</Project>
+	<Project Path="INSTALL.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="bcdbb982-0631-3392-b793-b5ef2d24c7eb">
+		<BuildDependency Project="ALL_BUILD.vcxproj"/>
+		<BuildDependency Project="../ZERO_CHECK.vcxproj"/>
+		<Build Solution="Debug|*" Project="false"/>
+		<Build Solution="Release|*" Project="false"/>
+		<Build Solution="MinSizeRel|*" Project="false"/>
+		<Build Solution="RelWithDebInfo|*" Project="false"/>
+	</Project>
+	<Project Path="../ZERO_CHECK.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="6731ab09-b433-372c-9335-6ca632be7413"/>
+	<Project Path="api-test.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="071d3263-f178-3510-98ea-697b6dc3d3a9">
+		<BuildDependency Project="../ZERO_CHECK.vcxproj"/>
+		<BuildDependency Project="qjs.vcxproj"/>
+	</Project>
+	<Project Path="function_source.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="5478bfcb-b491-33c1-bf2f-6632bf6abe8c">
+		<BuildDependency Project="../ZERO_CHECK.vcxproj"/>
+		<BuildDependency Project="qjs.vcxproj"/>
+		<BuildDependency Project="qjs-libc.vcxproj"/>
+	</Project>
+	<Project Path="lre-test.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="40be9239-ad7f-3a11-afd2-6c5f8174931e">
+		<BuildDependency Project="../ZERO_CHECK.vcxproj"/>
+	</Project>
+	<Project Path="qjs.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="3fac9a08-7c17-394c-b3b8-bb45b6ec55f7">
+		<BuildDependency Project="../ZERO_CHECK.vcxproj"/>
+	</Project>
+	<Project Path="qjs-libc.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="be7dfc8e-8339-3c6d-b18a-f5eb0445b6db">
+		<BuildDependency Project="../ZERO_CHECK.vcxproj"/>
+		<BuildDependency Project="qjs.vcxproj"/>
+	</Project>
+	<Project Path="qjs_exe.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="bd1ea2e0-f7ea-3f86-b8e9-d9903198e1b2">
+		<BuildDependency Project="../ZERO_CHECK.vcxproj"/>
+		<BuildDependency Project="qjs.vcxproj"/>
+		<BuildDependency Project="qjs-libc.vcxproj"/>
+	</Project>
+	<Project Path="qjsc.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="9b80524d-0acc-3ee6-bdc1-2b01d2f76d3d">
+		<BuildDependency Project="../ZERO_CHECK.vcxproj"/>
+		<BuildDependency Project="qjs.vcxproj"/>
+		<BuildDependency Project="qjs-libc.vcxproj"/>
+	</Project>
+	<Project Path="run-test262.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="ee511dd8-e144-3f5a-841e-b9f730ee69d6">
+		<BuildDependency Project="../ZERO_CHECK.vcxproj"/>
+		<BuildDependency Project="qjs.vcxproj"/>
+		<BuildDependency Project="qjs-libc.vcxproj"/>
+	</Project>
+	<Project Path="unicode_gen.vcxproj" Type="8bc9ceb8-8b4a-11d0-8d11-00a0c91bc942" Id="da4d7058-b2f4-309a-a604-6be028068816">
+		<BuildDependency Project="../ZERO_CHECK.vcxproj"/>
+	</Project>
+</Solution>

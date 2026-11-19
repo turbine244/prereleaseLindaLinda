@@ -1,0 +1,7 @@
+{
+  "type": "linda0-rig-package",
+  "schemaVersion": 1,
+  "languageSupport": "linda.js",
+  "semantic": "semantic.json",
+  "error": "debug/error.json"
+}

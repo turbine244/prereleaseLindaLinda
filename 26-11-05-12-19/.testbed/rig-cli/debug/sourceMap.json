@@ -1,0 +1,105 @@
+{
+  "sizeByteA": 622,
+  "sizeByteB": 923,
+  "listMapSegment": [
+    {
+      "A": {
+        "startByte": 13,
+        "endByte": 14
+      },
+      "B": {
+        "startByte": 0,
+        "endByte": 1
+      },
+      "isContentReplaced": false
+    },
+    {
+      "A": {
+        "startByte": 28,
+        "endByte": 29
+      },
+      "B": {
+        "startByte": 1,
+        "endByte": 2
+      },
+      "isContentReplaced": false
+    },
+    {
+      "A": {
+        "startByte": 43,
+        "endByte": 44
+      },
+      "B": {
+        "startByte": 2,
+        "endByte": 3
+      },
+      "isContentReplaced": false
+    },
+    {
+      "A": {
+        "startByte": 59,
+        "endByte": 173
+      },
+      "B": {
+        "startByte": 3,
+        "endByte": 117
+      },
+      "isContentReplaced": false
+    },
+    {
+      "A": {
+        "startByte": 173,
+        "endByte": 188
+      },
+      "B": {
+        "startByte": 117,
+        "endByte": 386
+      },
+      "isContentReplaced": true
+    },
+    {
+      "A": {
+        "startByte": 188,
+        "endByte": 256
+      },
+      "B": {
+        "startByte": 386,
+        "endByte": 454
+      },
+      "isContentReplaced": false
+    },
+    {
+      "A": {
+        "startByte": 256,
+        "endByte": 261
+      },
+      "B": {
+        "startByte": 454,
+        "endByte": 465
+      },
+      "isContentReplaced": true
+    },
+    {
+      "A": {
+        "startByte": 261,
+        "endByte": 621
+      },
+      "B": {
+        "startByte": 465,
+        "endByte": 825
+      },
+      "isContentReplaced": false
+    },
+    {
+      "A": {
+        "startByte": 621,
+        "endByte": 622
+      },
+      "B": {
+        "startByte": 825,
+        "endByte": 923
+      },
+      "isContentReplaced": true
+    }
+  ]
+}

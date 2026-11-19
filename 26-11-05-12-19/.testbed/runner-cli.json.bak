@@ -1,0 +1,44 @@
+{
+  "paths": {
+    "source": "sample.js",
+    "rig": "rig-cli"
+  },
+  "lastRun": {
+    "status": "ok",
+    "finishedAt": "2026-11-08T17:13:32Z"
+  },
+  "wire": {
+    "audio": {
+      "name": "asio",
+      "sps": 48000,
+      "spb": 128,
+      "meta": {
+        "driver": "MOTU M Series",
+        "usePreferred": false
+      }
+    },
+    "listLindaIn": [
+      {
+        "name": "MONO IN",
+        "listIdSrc": [
+          1
+        ],
+        "listIdDest": [
+          1
+        ]
+      }
+    ],
+    "listLindaOut": [
+      {
+        "name": "MONO OUT",
+        "listIdSrc": [
+          1
+        ],
+        "listIdDest": [
+          1,
+          2
+        ]
+      }
+    ]
+  }
+}
